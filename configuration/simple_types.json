@@ -1,0 +1,23 @@
+{
+    "c": "Text (c)",
+    "d": "Date (d)",
+    "n": "Numeric Text (n)",
+    "t": "Time (t)",
+    "decfloat16": "Decimal float 16 (decfloat16)",
+    "decfloat34": "Decimal float 34 (decfloat34)",
+    "i": "Integer (i)",
+    "p": "Packed Number (p)",
+    "x": "Byte (x)",
+    "xstring": "Byte String (xstring)",
+    "string": "String (string)",
+    "STRUCT": "Structure",
+    "STANDARD": "Standard Table",
+    "SORTED": "Sorted Table",
+    "HASHED": "Hashed Table",
+    "MESH": "Meshes",
+    "DATA_REF" : "Data Reference",
+    "CLAS_REF" : "Class Reference",
+    "INTF_REF" : "Interface Reference",
+    "CLAS": "Class",
+    "INTF": "Interface"
+}

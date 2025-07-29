@@ -1,0 +1,108 @@
+{
+    "any": [
+        "c",
+        "d",
+        "n",
+        "t",
+        "decfloat16",
+        "decfloat34",
+        "f",
+        "i",
+        "p",
+        "x",
+        "xstring",
+        "string",
+        "STRUCT",
+        "STANDARD",
+        "SORTED",
+        "HASHED",
+        "MESH",
+        "DATA_REF",
+        "CLAS_REF",               
+        "INTF_REF"               
+    ],
+    "data": [
+        "c",
+        "d",
+        "n",
+        "t",
+        "decfloat16",
+        "decfloat34",
+        "f",
+        "i",
+        "p",
+        "x",
+        "xstring",
+        "string",
+        "STRUCT",
+        "STANDARD",
+        "SORTED",
+        "HASHED",
+        "MESH",
+        "DATA_REF",
+        "CLAS_REF",               
+        "INTF_REF"         
+    ],
+    "simple": [
+        "c",
+        "d",
+        "n",
+        "t",
+        "decfloat16",
+        "decfloat34",
+        "f",
+        "i",
+        "p",
+        "x",
+        "xstring",
+        "string"
+    ],
+    "csequence": [
+        "c",
+        "string"
+    ],
+    "clike": [
+        "c",
+        "d",
+        "n",
+        "t",
+        "string"
+    ],
+    "decfloat": [
+        "decfloat16",
+        "decfloat34"        
+    ],
+    "numeric": [
+        "decfloat16",
+        "decfloat34",
+        "f",
+        "i",
+        "p"
+    ],
+    "xsequence": [
+        "x",
+        "xstring"
+    ],
+    "any table": [
+        "STANDARD",
+        "SORTED",
+        "HASHED"           
+    ],
+    "index table": [
+        "STANDARD",
+        "SORTED"        
+    ],
+    "standard table": [
+        "STANDARD"
+    ],
+    "sorted table": [
+        "SORTED"
+    ],
+    "hashed table": [
+        "HASHED"
+    ],
+    "object": [
+        "CLAS",
+        "INTF"
+    ]
+}
