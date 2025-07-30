@@ -5,6 +5,7 @@
     "t": "Time (t)",
     "decfloat16": "Decimal float 16 (decfloat16)",
     "decfloat34": "Decimal float 34 (decfloat34)",
+    "f": "Binary floating number (f)",
     "i": "Integer (i)",
     "p": "Packed Number (p)",
     "x": "Byte (x)",
